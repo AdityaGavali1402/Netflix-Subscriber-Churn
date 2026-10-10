@@ -11,7 +11,7 @@ This part focuses on cleaning and exploring the Netflix subscriber churn dataset
 
 ## Files
 - `Netflix_Churn_EDA.ipynb` — EDA notebook.
-- `Netflix_Churn_EDA.pdf` — EDA report.
+- `Netflix_Churn_EDA.pptx` — EDA report.
 
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
