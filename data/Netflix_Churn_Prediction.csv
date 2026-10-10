@@ -1,0 +1,1201 @@
+Customer_ID,Age,Tenure_Months,Watch_Hours,Login_Frequency,Plan,Device,Satisfaction_Score,Churn
+NF100001,56,23,6.4,2,Premium, MOBILE,4,no
+NF100002,69,15,46.0,26,Premium,Mobile,4,No
+NF100003,46,33, 49.9 ,25,Standard ,Laptop,3,1
+NF100004,32,25,37.9,2,Basic,Tablet,5,No
+NF100005,60,17,73.7,12,Basic,Laptop,5,No
+NF100006,25,33,25.0,8,Basic,Mobile,2,N
+NF100007,38,47,12.7,9,standard, TV,1,N
+NF100008,56 years,55,33.7,12, PREMIUM,Tablet,3,No
+NF100009,36,2,7.5,26,Standard,Mobile,5,No
+NF100010,40,14,46.6,9,Basic,Mobile,2,No
+NF100011,28,53,58.1,10,,,1,No
+NF100012,28,40m,14.7,25,Basic,Mobile,3,No
+NF100013,41,40,64.5,2,,mobile,3,Yes
+NF100014,70,51,, 16 ,,Tablet,5,No
+NF100015,53,39,49.6,0,Standard,Tablet,3,No
+NF100016,57,51,81.0,7,Basic, TABLET,2, NO
+NF100017,41,,500,28,Basic,Laptop,3,Churned
+NF100018,20,6,28.0,2,PREMIUM,Tv,4,No
+NF100019,,3,36.9,1,Basic,Tablet,2,Yes
+NF100020,70,7,19.6,19,Basic,,1,Yes
+NF100021,19,51,27.2,28,Basic,Laptop,,Yes
+NF100022,41,8,40.2,4,Basic,,5,0
+NF100023,61,42,43.5,24,Standard,Tv,5,No
+NF100024,47,52,52.1,22,Premium,Mobile,4,No
+NF100025,55,15,, 27 ,basic plan,Laptop,1,Yes
+NF100026,19,47,163.7,2,Standard,Tablet,,No
+NF100027,38,29,21.1,25,Standard,Tv,1,No
+NF100028,50,33,57.9h,14,Standard,laptop,1,No
+NF100029,29,52,47.2,2,Premium,Tab,3,No
+NF100030,39,30,26.1,29,Premium,Laptop,2,No
+NF100031,61,39,55.0,15,basic plan,TV,2/5,No
+NF100032,42,27,21.5h,12, PREMIUM,Mobile,4,No
+NF100033,66,36,39.2,5,Standard,Laptop,3,Yes
+NF100034,44,29,111.9 hrs,28,Premium,Tablet,1,No
+NF100035,59,38,30.0,20,STANDARD,TV,, NO
+NF100036,45,57,41.7,29,Premium,Mobile,5,No
+NF100037,33,33,19.0,7,Premium, TABLET,5,No
+NF100038,-5,37m,,24, BASIC,Tablet,4,No
+NF100039,64,27,,21,Standard,Tablet,1,N
+NF100040,68,55,47.7,10,Premium,Laptop,4,No
+NF100041,,33,70.0,,PREMIUM,TV,3,No
+NF100042,69,4,34.1,14,basic plan,Tablet,2,0
+NF100043,20,22,55.5,5,Standard,Laptop,1,No
+NF100044,54,2,49.4,,Basic,TV,3,No
+NF100045,68,10,71.5,24,Basic,TV,1,
+NF100046,24,5,55.6,14,Standard,laptop,5,No
+NF100047,38,59,80.6 hrs,2,BASIC,Laptop,4,No
+NF100048,26,10,33.9, 26 ,Premium,tablet,5,No
+NF100049,56,33,16.2,12,Basic,TV,2,No
+NF100050,35,54,11.7,22,Premium,Mobile,5,N
+NF100051,21,38,12.7,24,Basic,Laptop,1,Yes
+NF100052,42,13,33.0,6,Basic,TV,5,No
+NF100053,31,31,44.3,4,BASIC,TV,1,N
+NF100054,67,47,25.2h,13,Basic,Tablet,,no
+NF100055,26,36,6.3,4,Basic ,,5,no
+NF100056,43,45,25.5,22,basic,Tablet,4,0
+NF100057,70,24,29.9,,STANDARD,Mobile,4,No
+NF100058,19,52,39.5,16,Basic,Mobile,4,No
+NF100059,37,56,86.9,29,Standard ,Laptop,5,No
+NF100060,45,15,9.9,4,Standard,TV,5,Yes
+NF100061,64,29,59.1,24,Premium ,Smart TV,5,No
+NF100062,24,8,55.8,25,Premium,tv,1,No
+NF100063,61,5,34.1,1,Standard,Mobile,2,No
+NF100064,,29,50.4,13,basic plan,TV,4,No
+NF100065,64,47,35.5,,Basic,Laptop,1,No
+NF100066,52,4,55.1,20,Premium,Mobile,4,No
+NF100067,31,12m,22.2,18,Basic,Mobile,1,Yes
+NF100068,34,45,20.4,6,Basic,Mobile,5,No
+NF100069,53,2,9.1,3,Basic,Mobile,4,Churned
+NF100070,67,27,50.5,23, BASIC,Laptop, 5 ,No
+NF100071,57,31,27.0,200, BASIC,TV,4,No
+NF100072,21,51,,27,premium plan,Laptop,3,No
+NF100073,19,,20.6,16,basic,TV,1, YES
+NF100074,23,36,55.1,27,Standard,,3,No
+NF100075,59,36,44.1,5,Basic, TABLET,1,No
+NF100076,,26,9999,4,Basic,Tablet,2,1
+NF100077,46,43,84.9,21,PREMIUM,tablet,4,No
+NF100078,35,27,38.2,8,Basic,Tablet,2, NO
+NF100079,,5,52.7,19,Premium,Mobile,,Active
+NF100080,61,20,43.5,14,Standard,Mobile,1,No
+NF100081,51,11,33.4,7,Basic,Laptop ,3,No
+NF100082,27,10,50.7,14, PREMIUM,Laptop,5,No
+NF100083,53,40 months,75.3,6,BASIC,Tablet,1,No
+NF100084,31,38,33.1,12,Premium,tv,5,No
+NF100085,48,6,61.2,16,Basic,Tablet,2,
+NF100086,65,8,25.2,200,premium, LAPTOP,5,No
+NF100087,32,23,103.2,13,Basic,Tablet,3,No
+NF100088,25,,22.9,23,standard,Laptop,1,No
+NF100089,31,,122.9,14,Premium,Tablet,3,No
+NF100090,40,46,16.7,29,Premium,, 3 ,
+NF100091,57,43,31.9,7,Premium,tablet,,No
+NF100092,,12,52.2,14,Premium,TV,3,Active
+NF100093,33,26,78.1,15,Premium,TV, 4 ,No
+NF100094,62,13,,,Basic,Laptop,,no
+NF100095,35, 40 ,87.5,17,Basic,TV,,No
+NF100096,64,,51.0,9,Basic ,mobile,5,Active
+NF100097,70,25,23.9,22, STANDARD,Mobile,3,No
+NF100098,,33,69.0,15,STANDARD,Mobile,1,No
+NF100099,43,47,,12,Standard,Laptop,1, NO
+NF100100,42,40,47.9,2, BASIC,Phone,5,No
+NF100101,62,60,28.3,5,Standard,Laptop,1,Yes
+NF100102,58,43,9999, 13 ,Basic,Laptop ,,0
+NF100103,46,12,25.0,27,Basic,Mobile,3,No
+NF100104,32,44,24.1,20,Standard , TV,1,No
+NF100105,62,36,40.8,23,Premium, TABLET, 1 ,No
+NF100106,18,48,70.9,8,Standard, LAPTOP,2,No
+NF100107,42,4,42.7,27,STANDARD,Mobile,2,No
+NF100108,24,5,,14,Basic,,2,Yes
+NF100109,26,56,59.6,15,standard plan,TV,3,No
+NF100110,41,37,109.1,11,basic plan,TV,4,No
+NF100111,18,8,42.4,1,Standard,Mobile,4,No
+NF100112,61,42,25.5,21,Standard,Laptop,4,No
+NF100113,25,49 months,20.3,3,Basic, TABLET,3,no
+NF100114,41,150,57.5,17,Basic,tablet,3,No
+NF100115,28,31,92.7,28,Premium ,Laptop,6,No
+NF100116,68,58,32.9,19,Premium,Laptop,1,No
+NF100117,34,9,28.3,14,Standard,Laptop,5,No
+NF100118,25,54,-10,22,BASIC,Mobile,5,No
+NF100119,52,51, 62.3 ,30,BASIC,TV,1,no
+NF100120,52,29,24.3,23,Standard,tablet,2,No
+NF100121,50,14,45.8,8,Premium,Mobile,1,No
+NF100122,22,40,-10, 13 ,Basic,Laptop,1,No
+NF100123,59,41,0,27,Premium,Laptop,5,No
+NF100124,56,22,,20,Basic,TV,2,No
+NF100125,58,11,21.9 hrs,3,Premium,laptop,3,No
+NF100126,45,23,42.2,5,standard plan,Mobile,5,N
+NF100127,24,,60.0,9, PREMIUM, MOBILE,3,No
+NF100128,26,46,119.4,29,Basic,tv,2,No
+NF100129,25,37,18.2,6,standard,Mobile ,1,No
+NF100130,,21,46.5 hours,25,Basic,Tab,4,No
+NF100131,51,26,40.0h,22,Basic,Mobile,4,0
+NF100132,50,46,-10,2,Premium, MOBILE,2,Yes
+NF100133,65,36,,13,Premium,Mobile,4,No
+NF100134,40,54,55.6,5,Premium,Tablet,3,No
+NF100135,41,23,56.6,28,Standard,Laptop,4,No
+NF100136,54,57,17.4,27,Premium,Mobile,2,No
+NF100137,52,1,32.0,25,Basic,TV,2,No
+NF100138,61,54,41.3,8,Basic,Tablet,6,No
+NF100139,,55,44.3,23,Basic,TV,4,No
+NF100140,39,51,135.8,1,Standard ,Mobile ,4/5, NO
+NF100141,44,40,33.1,20,Standard, TV,1,No
+NF100142,52,15,4.5,12,Basic,Mobile ,5,No
+NF100143,18,21,41.6,23,Standard,Tablet,2, NO
+NF100144,52,47,53.8,11,,TV,1,No
+NF100145,54,9,unknown,7,Standard,TV,2,No
+NF100146, 64 ,53,2.8,15,Basic,Mobile,1,N
+NF100147,31,9,47.6,22,Basic,Mobile,,Active
+NF100148,20,10,54.7,24, BASIC,Laptop,1,No
+NF100149,18,52,16.1,11, BASIC,Mobile,2,No
+NF100150,22,, 25.4 , 29 ,Standard,Mobile,4,No
+NF100151,43,53,38.5,22,Standard,laptop,2, NO
+NF100152,31,26,27.7,26,Standard,Mobile,3,0
+NF100153,56,41,30.8,16,Standard,Mobile ,3,No
+NF100154,44,35,47.9,3,, LAPTOP,,N
+NF100155,26,52,26.5,20,Basic, TABLET,3,Yes
+NF100156,32,25,13.0,14,Standard,Tablet,,No
+NF100157,32,26,66.8,3,Premium,Mobile,6,Yes
+NF100158,43,11,19.5,1,Basic,Mobile,4,No
+NF100159,59,38,35.1,26,Basic,Laptop,2,No
+NF100160,30,2,28.8,21,Premium,Laptop,1,Y
+NF100161,68,7,17.6,15,Basic ,Tablet,2,No
+NF100162,49,18,65.6,1,Standard ,TV,2,yes
+NF100163,56,27,,17,Basic, MOBILE,2,No
+NF100164,,34 months,31.2,,Standard,TV,2,No
+NF100165,69,27,39.6,29,basic,TV,4,No
+NF100166,49,17,42.7,20,Basic,Laptop,1,No
+NF100167,21,43,18.4h,6,Standard,Mobile,2,yes
+NF100168,47,59,20.3, 8 ,Basic,Phone,4,No
+NF100169,54,44,39.2,29,Standard, LAPTOP,,No
+NF100170,40,59,17.3,,Basic,tv,3,no
+NF100171,56,51,39.0,19,BASIC,Laptop,2,Yes
+NF100172,62,54,6.0,1,basic,Tablet,2,No
+NF100173,32,24,30.1,3,Basic,,5,No
+NF100174,60,25,47.4,28,Premium,Tablet,3,No
+NF100175,46 years,7,45.3,3, BASIC,Laptop,1,No
+NF100176,53,,75.0,999,Standard,Mobile,2,No
+NF100177,30,6,18.3,27,Basic,Tab,1,Yes
+NF100178,49,53,37.9,12,Basic,Tablet,3,No
+NF100179,24,24,67.1,12,Premium,Tv,2,No
+NF100180,68,33,47.2,20,Basic,Mobile,5,0
+NF100181,39,49,63.0,13,Premium,tablet,4,N
+NF100182,45,29,17.3,20,Basic,Tablet,5,1
+NF100183,19,43,41.6 hrs,9,Standard,TV,5,No
+NF100184,59, 22 ,34.6,7,Standard,Tablet,4,Yes
+NF100185,62,26,42.2,4,PREMIUM,tablet,4,No
+NF100186,70,28,23.4,19,Standard,tablet,4,No
+NF100187,23,50,81.0,22,Standard ,TV,2,No
+NF100188,45,21,59.1,19,basic, TABLET, 1 ,No
+NF100189,,49,75.6,6,Basic,Tablet,1,No
+NF100190,61yr,7,47.3,27,Premium,Mobile,4,No
+NF100191,61,17,25.0,13,Basic,Mobile,5,Yes
+NF100192,37,,56.8,11,Standard,TV, 3 ,No
+NF100193,47,41,81.5,13,premium,Laptop,4/5,No
+NF100194,28,49,47.3,13,Basic,Mobile,5,No
+NF100195,45,20,21.3,28,Premium,Tv,5,No
+NF100196,42,54,27.3,25,Standard,Tablet,2,No
+NF100197,56yr,22,41.0, 22 ,Standard,Tablet,2,Yes
+NF100808,50,28,87.3,28,premium,TV,1,No
+NF100199,18,40,102.2 hrs,20,Basic,Tablet,1,No
+NF100200, 44 ,49,22.5,15,Basic,Tablet,3,No
+NF100201,69,7,49.5,21 times,standard plan,Laptop,3,No
+NF100202,30,1,27.1,13,basic plan,Tablet,3,No
+NF100203,58,32,16.1,22,Standard,Mobile,3,No
+NF100204,,13,55.9,11,Premium,Tablet,5,No
+NF100268,56,30,43.7,19,,TV,5,No
+NF100206,23,23,45.4,8,Basic,Laptop,1,Yes
+NF100207,25,51,36.1,20,Premium, TABLET,2,N
+NF100208,,59,47.9,8,Standard,TV,2,0
+NF100209,26,56,,10,Standard,,4,0
+NF100210,54,19,64.2,26 times,Standard,Tablet,5,No
+NF100211,50,32,23.2 hrs,16,Premium,laptop,3,Yes
+NF100212,68,30,66.0,19,Standard,Tablet,3,Active
+NF100213,,29,60.8,26,Premium,tv,4,No
+NF100214,61,49,48.5,23,Premium ,Laptop,2,No
+NF100215,41,45,40.7,11,basic,Tablet,3,No
+NF100216,32,29,37.7,13,Standard,Mobile ,2,No
+NF100217,49,30,37.9,28,premium plan,laptop,4,No
+NF100218,49,16,40.8,9,Standard,Mobile,2,No
+NF100219,41,40,13.5,20,Premium ,Smart TV,2,No
+NF100220,,19,126.9,24,PREMIUM,Tab,2,No
+NF100221,69,18,72.5,19,Standard,Mobile,,No
+NF100222,66,1m,102.8,16,Standard,TV,1,
+NF100223,66,14,57.3,7,Premium,Tablet,5,No
+NF100224,69,51,26.6,19,Premium ,Tv,2,Active
+NF100225,29,47,,,Standard,Mobile,2,No
+NF100226,56,50,63.9,15,Basic,TV,2,No
+NF100227,19,2,21.3,,Standard,,1,1
+NF100228,20,54,80.6,14,Standard,Tablet,4,No
+NF100229,66,28,, 11 ,Standard,TV,3,No
+NF100230,54,49,60.4,,Standard,Mobile,1,N
+NF100231,66,50,86.9,10,Standard,Tab,2,No
+NF100232,34,30,47.2,27,Standard,Laptop,1,No
+NF100233,66,38,87.3,11,Basic,Tab,1,No
+NF100234,19,51,14.0,6,Standard, LAPTOP,1,No
+NF100235,19,4, 18.6 ,2 times,Standard,Tablet,4,Churned
+NF100236,45,1,23.1,11,Basic,tv,5,No
+NF100237,40,8,7.5,19,Basic,TV,3,No
+NF100238,54,29,11.1,6,Standard,Phone,4,No
+NF100239,49,55,,14,Standard,laptop,4,N
+NF100240,50,39,75.9,,Basic,Phone,5,N
+NF100241,18,3,27.5,6,Premium,TV,4,Yes
+NF100242,36,32,122.4,17,Standard,Laptop,1,No
+NF100243, 19 ,10,33.2,10,Premium, MOBILE,1,No
+NF100244,70,10,105.1,28,Standard ,Mobile,2,No
+NF100245,61,19,106.3,1,Standard ,Mobile,4,N
+NF100246,43,46,26.6,3,Premium,Mobile,2,No
+NF100247,49,34,63.9,8,STANDARD,Mobile,3,Churned
+NF100248,23,60,74.0,8,Standard,Laptop,1,No
+NF100249,49,999,26.1,27,Basic,Mobile,,Yes
+NF100250,21,,3.3,20,Standard, LAPTOP,5,yes
+NF100251,28,,63.0,22,Basic,Mobile,1,No
+NF100252,34,28,22.7,15,Basic,TV,3,No
+NF100253,55,32,36.8,24,Basic,TV,5,No
+NF100254,41,,44.8,7,Basic,Mobile,3,No
+NF100255,22,7,55.9,11, PREMIUM,Tab,5/5,yes
+NF100256,69,29,32.0h,7,Basic,TV,5,Yes
+NF100257,51,8,46.8,29,Standard,laptop,1,No
+NF100258,23,1,77.1,4,Premium,Mobile,2,No
+NF100259,39,150,8.8,25,Standard,Laptop,5,No
+NF100260, 28 ,55,14.4,12,basic,Tablet,5,
+NF100261,65,3,17.6,26,Standard,Mobile,1,No
+NF100262,33,24, 28.4 ,6 times,Standard,TV,2,Yes
+NF100263,50,23,62.0,14,standard plan, LAPTOP,4,No
+NF100818,26,,71.0,12,Premium,TV,4,No
+NF100265,23,8,35.4,11,Premium,tv,2,No
+NF100266,33,,0,19,Standard,Mobile,3,Yes
+NF100267,46,57,84.6,,Basic,,1,No
+NF100268,20,,45.3,5,Standard,Tablet,2,No
+NF100269,37,37,31.4,14,Basic,TV,4,No
+NF100270,53,3,66.3, 21 ,Premium ,,5,no
+NF100271,36,51,62.2h, 24 ,Basic,Mobile ,4,No
+NF100272,43,33,50.5,16,Basic,Tablet,5,No
+NF100273,20,28,27.5 hrs,25,Premium,,1,No
+NF100274,36,47,,13,Standard,TV,5,No
+NF100275,37,8,21.9,25,Standard,Mobile,2,No
+NF100276,49,34,22.7,29,Standard,Laptop ,5,
+NF100277,24,35,21.4,22,Premium,Laptop,3,Active
+NF100278,69,32,28.4 hrs,22,Basic,TV,2,No
+NF100279, 58 ,,39.7,25, PREMIUM,Laptop,1,No
+NF100280, 50 ,14,42.5,20,Basic,tablet,2,No
+NF100281,57,32,18.2,22,Premium, MOBILE,3,no
+NF100282,56,56,46.4,4,Premium,Smart TV,1,yes
+NF100283,35,46,,11,Basic,tablet,4,No
+NF100284,57,43,,17,Standard,mobile,3,No
+NF100285,18,16,27.0,7,Basic,Tablet,1,Yes
+NF100286,28,4,18.5,14, STANDARD,TV,5, NO
+NF100287,45,52,55.6,26, STANDARD,Tv,2,No
+NF100288,42,37,42.0,11,Standard,Tablet,,Yes
+NF100289,unknown,54 months,49.1,28,Basic,Phone,2,0
+NF100290,40,21,30.4,22,BASIC,Laptop,5,Yes
+NF100291,48,14,28.1,,,Laptop,1,N
+NF100292,47,31,70.5,23,Basic,Tablet,4,Active
+NF100293,59,55,147.1,13,Standard,TV,3,No
+NF100294,52,48,33.2,23,premium,Phone,1,No
+NF100295,24,18,43.8,18,standard plan,Mobile,5,No
+NF100296,33,7,38.0,-3,Standard,TV,1,No
+NF100297,43,10,22.9,11,Premium,Laptop,2,No
+NF100298,,7,30.0,15,Standard ,Mobile,1,No
+NF100299,69,,112.2,25,Premium,Tablet,4,No
+NF100300,66,23,25.0,26, STANDARD,Laptop,1,Yes
+NF100301,19,21,41.8,25,Basic ,Tablet,3,Yes
+NF100302,18,19,26.1,22,Basic,Laptop,1,No
+NF100303,65,48,38.6,29,Standard,TV,2,No
+NF100304,29,19,25.0h,19, BASIC,Tablet,1,No
+NF100175,22,36,28.8,1,Basic,Tablet,4, NO
+NF100306,54,29,14.0,4,,TV,5,No
+NF100307,49,60,42.4,14,Standard,Tab,1,No
+NF100308,26,18,31.8,14,Standard,Laptop,1, NO
+NF100309,150,2,53.9,3,Basic,Mobile,3,No
+NF100310,52,1,,30,Standard,Mobile,4,No
+NF100311,36,47,24.5,28,Standard, TV,5, NO
+NF100312,65,5,20.6,17,Premium, LAPTOP,2,No
+NF100313,,20,39.9,3,standard,Tablet,1,Yes
+NF100314,20,11,-10,16,,Tablet,5,0
+NF100315,37,42,27.6,14,Premium ,Mobile,2, NO
+NF100316,41,2,9.8h,30,Standard,Tablet,4,No
+NF100317,50,3,,20,Basic,,4,0
+NF100689,41,0,76.7,29,Standard,Tv,5,No
+NF100319,69,55,54.6,13,Standard,Tablet,2,No
+NF100320,28,12,17.0,15,STANDARD,Laptop,4,No
+NF100321,66,20,43.0,14,Standard,Tab,5,No
+NF100322,25,5,64.1,24,standard,mobile,4,No
+NF100323,53,37,30.4,25,Basic,TV,4,Active
+NF100324,55,38,28.1,19,Standard,Phone,4,No
+NF100325,57 years,30m,28.7,6,Basic,Tablet,3,No
+NF100326,37,9,35.3,10,PREMIUM,Mobile,2,No
+NF100327,52,34,,27, BASIC,Mobile,5,No
+NF100328,65,53,44.9,15,Basic,TV,5,No
+NF100329,42,44,46.2,21,Standard,Laptop ,2,No
+NF100330,52,35,46.9,22,Standard,Tablet,2,0
+NF100331,42,52,38.9,20,Standard, TV,2,No
+NF100332, 46 ,58,17.4,26,basic,Laptop,2,No
+NF100333,35,22,34.1,6, STANDARD,Mobile,1,No
+NF100334,63,44,102.0,23,Basic,Laptop,5,no
+NF100335,35,24,45.7,25,premium,Mobile,1,No
+NF100336,19,17,23.3,10,PREMIUM,,4,Yes
+NF100337,52,10,56.5,7,Standard,TV,,No
+NF100338,33,30,102.6,22,Basic,Mobile,5,No
+NF100339,58,56,49.2,17,Standard,TV,4,No
+NF100340,53,59,36.1,18,Basic,Laptop,2,No
+NF100341,50,46,81.3,17,Standard,Laptop,1,No
+NF100342,21,23,29.0,9,Basic ,Mobile,2, NO
+NF100343,50, 32 ,69.6,10,Premium,TV,4,No
+NF101123,31,17,27.7,10,Basic,Mobile,1,Yes
+NF100345,,50,30.8,25,Standard,TV,2/5,No
+NF100346,65,51,61.8,7,Standard,Tv,5,No
+NF100347,37,17,79.4,16,Standard,TV,2,No
+NF100348,25,14,37.5,29,Basic,Laptop,4,
+NF100349,24,9,78.1,18,PREMIUM,tv,1,No
+NF100350,20,40,49.8,6,Standard,Laptop,5,No
+NF100351,34, 2 ,23.6,27,Standard,TV,1,No
+NF100352,50,45,30.9,20,Basic,Laptop,5,Active
+NF100353,65,25,54.3,1,Standard,Tablet,1,No
+NF100354,,39,84.1,1,Standard,laptop,4,No
+NF100355,68,9,70.3,12,Basic, LAPTOP,5,No
+NF100356,39,54,70.9h,21,Basic,Mobile,3,Active
+NF100357,,22,15.6,28,Premium,Tv,1,No
+NF100358,63,43,60.5,2,,tablet,1,No
+NF100271,47,,58.7,4,Basic,Mobile,2,Yes
+NF100360,55,4,47.1,17,Standard,TV,5,No
+NF100361,55,26,58.1,4,Premium,Tablet,3,no
+NF100362,62,58,11.1,11,Basic ,tablet,4, NO
+NF100363,68, 29 ,6.1h,22,Standard,Tablet,2,No
+NF100364,25,45,46.5,26,Basic,TV,3,No
+NF100365,44,,38.5,4,basic,Tablet,5,No
+NF100366,44,23,34.8,1,Basic,Tab,3, NO
+NF100367,51,37,51.2,7,Premium,Mobile ,unknown,No
+NF100368,38,11,45.0,30 times,Basic,Laptop,1,no
+NF100369,47,6,48.3,18,Basic ,TV,2,Active
+NF100370,50,18,66.0 hrs,9,Standard,Laptop,5,No
+NF100371,45,21,28.4,29,Premium ,Mobile,5/5,No
+NF100372,64,42,48.9 hours,3,basic,Laptop,3, NO
+NF100373,50,36,26.2,8,,Tab,2,Yes
+NF100374,22,41,9.3,29,Basic,Tablet,5,No
+NF100375,65,38,33.2,24,Standard,Smart TV,1,N
+NF100376,36,34,unknown,19 times,standard,TV,3,No
+NF100377,21yr,17,22.4,4,Standard,TV,4,No
+NF100378,52,37,51.4,18,Basic,Mobile,1,no
+NF100379,66,25,66.3,20,Basic,TV,2,No
+NF100380,0,38,60.8,27,Basic, MOBILE,5,No
+NF100381,61, 58 ,26.1,11,Standard,Tablet,1,No
+NF100382,45,12,,27,Basic,Laptop,4,No
+NF100383,47,23,40.9,14,premium,Tablet,4,Yes
+NF100384,46,53,46.9,25,Premium,Tablet,2, NO
+NF100385,63,42m,57.9,18,Premium,Tab,1,No
+NF100386,70,22,58.2,28,Premium,Tv,3,No
+NF100387,23,21,148.5,28,standard plan,TV,1,No
+NF100388,52,27,88.1,29,Standard,TV,4,N
+NF100389,58,57,32.0,16,BASIC, LAPTOP,2,0
+NF100390,54,31,116.9,3,Standard,TV,2,No
+NF100391,41,6,18.5,15,Standard ,Mobile ,3,No
+NF100392,46,27,19.9,27,Standard,Tablet,2,no
+NF100393,66,40,62.4,27,Premium,Laptop,2,No
+NF100394,63,34,34.0,4,Basic,Laptop,2,No
+NF100395,70yr,12,88.3,5,BASIC,Laptop ,2,No
+NF100396,48,45,,17,Premium,laptop,2,N
+NF100397,52,57,37.5,7,basic,laptop,4,No
+NF100398,50,53,35.7 hrs,16, STANDARD,Mobile,1,No
+NF100399,69,7,34.8,14,Premium,tablet,5,No
+NF100400,38,10,,26,Standard, LAPTOP,2,No
+NF100401,49,45,,16,Standard,Tablet,5/5,No
+NF100402,40,17,25.7,7,Basic,TV,5,Yes
+NF100403,50,26,72.9,9,BASIC,Laptop,4,No
+NF100404,20,,27.5,4,Premium,Laptop,2,No
+NF100405,35,28,50.0 hours,30,standard plan,Tablet,5, NO
+NF100406,42,58,35.7,30,Standard, LAPTOP,2,No
+NF100407,59,46,22.0,22,Basic,Laptop,3,No
+NF100408,48,2,46.9,11,Basic, LAPTOP,3,No
+NF100409,20,60,39.5,2,Premium,Mobile,3,No
+NF100410,57,54,72.6,12,STANDARD,Mobile,5,No
+NF100411,63,43,31.0,12,Standard,Laptop,3,No
+NF100412,41,1,26.0,30,basic plan,Mobile,4,No
+NF100413,67,51,64.0,4,standard,TV,4,No
+NF100414,49,53,35.7,18,Premium,Laptop,5,No
+NF100415,64,36,67.1,26,Standard,TV,unknown,No
+NF100416,,51,28.1, 21 ,Basic,Tablet,1,Yes
+NF100417,40,26,43.7,,Standard,TV,2,No
+NF100418,19,29,26.8,29,premium,Tablet,2,No
+NF100419,44,21,22.9,1,Standard, LAPTOP,2,Yes
+NF100420,59,11,6.6,26,premium plan,Tab,2,no
+NF100421,19,40,90.0,26,Standard,Tablet,1,No
+NF100422,43,11,29.1,23,Premium, TV,3,Yes
+NF100423,34,36,53.9,26,Standard,TV,2,No
+NF100424,57,49, 36.0 ,13,basic,TV,4,No
+NF100425,50,,76.3,6,Basic,Laptop,5,No
+NF100426,26,39,10.8,6,basic,Laptop,,N
+NF100427,60,40,45.3,12,premium plan,TV,4,No
+NF100428,65,35,61.6,8,Premium,Laptop,2,N
+NF100429,56,54,41.4,24,Standard,Laptop,1,No
+NF100430,46,,24.4,22,Basic,Tablet,3, NO
+NF100304,59,55,11.2,19,Basic,Tablet,5,No
+NF100432,43yr,47,26.2,5,premium plan,TV,,no
+NF100433,,24,,18,Standard,Laptop,1,Yes
+NF100434,67,,60.8,30,,Tablet,5/5,No
+NF100435,42,22, 52.7 ,5,STANDARD,Phone,3,No
+NF100436,41,5,64.5,30,Basic, LAPTOP,, NO
+NF100437,30,56,21.0,25,Basic,mobile,3,No
+NF100438,24,33,9999,10,Standard,Smart TV,2,No
+NF100439,53,58,54.4,1,Basic,Laptop,1,No
+NF100440,62,36,53.2,10,Premium,TV, 3 ,No
+NF100441,37,47,9.9,5,Basic,tv,2,Yes
+NF100442,18,20,25.3,12,Basic,TV,2,No
+NF100443,25,19,92.8,22,Basic, TV,1,No
+NF100444,63,35,62.3,30,Premium,TV,4,No
+NF100445,,52,34.1,27,Standard,Laptop ,5,Yes
+NF100446,31,,17.0,7,standard plan, MOBILE,1,Yes
+NF100447,29,17,20.7,9,Basic,Laptop, 2 , YES
+NF100448,68,59,30.4,22,Basic,laptop,2,No
+NF100449,,45,14.4,-3,standard,Laptop,1,Yes
+NF100450,,43,77.7,12,Premium,Tablet,4,no
+NF100451,,34,73.8 hours,23,Premium,Tablet,5,No
+NF100452,51,9,17.5,29,basic,,3,No
+NF100453,19,26,106.5,1,Standard,Mobile,1,No
+NF100454,49,2,29.7,11,Premium ,,5,No
+NF100455,40,53,40.1,30,Standard, TV,5, NO
+NF100456,39,9,29.4,21,Premium,Tablet,2,No
+NF100457,68,9,,15,Basic,Tablet,3,No
+NF100458,42,40,31.8,2,Premium,Laptop,1,No
+NF100459,39,17,10.1,,Premium,Laptop,2,No
+NF100460,39,1,31.9,7,Premium,Phone,2,Yes
+NF100461,66,25 months,37.8,,Standard,Mobile,4,No
+NF100462,69,43,,12,Standard,TV,5,
+NF100463,59,40,12.9,22,Premium,Laptop,1,Yes
+NF100464,23,42,13.5,18,,Laptop,1,No
+NF100465,32,25,44.7,3,Basic,Laptop,1,0
+NF100466,60,39,17.5,7,Standard,Tablet,2, NO
+NF100467,54,35,34.9,11,Premium,TV,4,1
+NF100468,50,3,78.2,18,premium plan,Mobile ,3,No
+NF100469,25,50,,12,Basic, TABLET,,Yes
+NF100470,70,37,22.3,6,Premium,Tablet,99,Yes
+NF100471,61,44,68.5,5,Standard, TABLET,4,No
+NF100472,61,44,9.9,26,Basic,Tablet,5,No
+NF100473,,0,35.2,1,Standard,TV,1,N
+NF100474,56,30,47.6,12,BASIC,Laptop,3,Yes
+NF100475,21,38,66.3,27,Basic,Mobile,2,No
+NF100476,23,34,30.0,26,PREMIUM,Mobile,3,Yes
+NF100477,62,,,11,Standard,Tablet,5,1
+NF100478,49,19,13.1,4,Standard,Tablet,1,No
+NF100479,69,37,46.2,27,Premium,TV,3,0
+NF100480,47,44,46.9,18,,Tablet,5,Yes
+NF100481,64,59,100.9,4,Premium,Mobile,2,no
+NF100482,,59,31.8,17,,Mobile,4,No
+NF100483,57,49,47.3, 2 ,Premium,Laptop,2,No
+NF100484,69,17,37.0,29,Basic,Laptop,1,No
+NF100485,unknown,10,17.6,24,Premium,Mobile,2,No
+NF100486,30,57,46.6,22,Basic,Mobile,2,No
+NF100487,67,55,71.5,2,Basic,TV,2,No
+NF100488,59,49,57.8,, PREMIUM,TV,2,No
+NF100489,47,47,24.7,6,Standard,Mobile,1,No
+NF100490,36,12,150.2,10,Standard,,5,No
+NF100491,34,16,33.8,25,Standard,Laptop ,3,No
+NF100492,36,24,77.0,23,Standard,mobile,4,No
+NF100493,45,19,32.3,25,BASIC,Tab,3,No
+NF100494,43,8,75.9,21,Basic,Phone,,No
+NF100495,,31,35.2h,23,Basic,Laptop,4,No
+NF100496,43,21,36.8,27,Standard,laptop,1,No
+NF100497,70,17,70.0,16,Basic ,Tv,4,no
+NF100498,40,23,109.6,14,standard plan,TV,1/5,Active
+NF100499,26,37,34.4,7,Standard,TV,3,No
+NF100500,29,54,30.8,28, BASIC,TV,1,No
+NF100501,70,16,24.3,28,standard plan,Laptop,5,No
+NF100502,18,6,21.8,19,premium,Tablet,4,Y
+NF100503,18,8,25.5,23,Basic, TABLET,5,No
+NF100504,,25,28.3,17,standard plan,Tablet,3,No
+NF100505,51,18, 64.9 ,9,Standard ,Mobile,4,No
+NF100506,49 years,25,54.0,26,,TV,3,Yes
+NF100507,65,12,60.2,13,Standard,TV,5,
+NF100975,42,15,,22,Standard,Laptop ,3,No
+NF100509,57,59,76.5,5,Standard, LAPTOP,4,No
+NF100510,62,26,24.0,23,Basic,Mobile,4,Active
+NF100511,70,-2,45.4,5,Standard,Mobile,3,Yes
+NF100512,18,45,11.8,10,STANDARD,tablet,4,Yes
+NF100513,33,26,11.9,21,Basic,Laptop ,4, YES
+NF100514,unknown,,42.7,,Standard,Smart TV,,Churned
+NF100515,22,32,36.8,10,Premium,Tablet,5,No
+NF100516,39,10,40.7,27,STANDARD,TV,4,No
+NF100517,46,16,56.8,7,Standard,Tablet,4,No
+NF100518,20,7,87.3,26,Premium,TV,4,yes
+NF100519,29,17,40.1,15,Standard,Mobile,,No
+NF100520,43,23,36.2,7,Standard,Tablet,3,No
+NF100521,33yr,26,25.0,29,,TV,5,No
+NF100522,68,21,65.4,27,Premium,TV,,No
+NF100523,54,22,26.5,15,Standard,Laptop,1,
+NF100524,39,58,33.6,3,Standard,Tablet,4,No
+NF100525,46,7,57.6,19,Standard,Smart TV,4,No
+NF100526,31,14,42.0,10,premium plan, LAPTOP,1,No
+NF100527,45yr,15 months,40.6,28,Standard,TV,5,No
+NF100528,22,53,22.5,29,Basic,Tablet,2,No
+NF100529,64,7,48.8,15,premium,Mobile,2,No
+NF100530,66,9, 121.1 ,3,Standard ,Tablet,5,No
+NF100531,47,51,16.0,6, BASIC,Tablet,4,No
+NF100532,63,150,18.6,12,Standard,,, NO
+NF100533,69,8,62.4 hrs,15,Standard,TV,3,No
+NF100534,22,50,46.1,6,Premium,Tablet,,No
+NF100535,29,59,83.8,13,basic,Laptop,1,No
+NF100536,33,,24.5h,29,Premium,Laptop,5,No
+NF100537,43,29,66.0,19,Standard,Laptop,5,No
+NF100538,43,18,48.8,3,Basic,TV,2,No
+NF100539,65,31,21.0,8,Premium,TV,4,No
+NF100540,38,30,26.5,8,standard plan,Tablet,5,no
+NF100541,56,52,40.4,23,Basic,Mobile,2,No
+NF100542,53,39,22.4,26,Standard,TV,2,No
+NF100543,50,35,74.4,20,Premium,Tab,5,No
+NF100544,47,18,60.6,15,BASIC,Tablet,2,Active
+NF100545,54,59,29.2,4,Basic,Mobile,1,No
+NF100546,40,42,36.2h,,basic,Laptop,1,Yes
+NF100538,27,39,67.9,,Basic,Tablet,5,No
+NF100548,,17m,38.4,3,Premium,tablet,4,Yes
+NF100549,53,14,110.8,13,Standard, TABLET,1,Active
+NF100550,,31,54.2,8,Basic,Laptop,1,Yes
+NF100551,69,24,23.1,23,Basic,laptop,5,No
+NF100552,,35,19.3,16,Basic,Mobile,3,No
+NF100553,27,44,71.9h,13,Premium,TV, 2 ,No
+NF100554,36,60,30.2,3,BASIC,Laptop,1,No
+NF100555,49,45,43.5 hours,16,Premium,TV,,No
+NF100556,18,34,3.0,9,Standard,Tv,4,Yes
+NF100557,22,3,40.4,28,basic,Laptop,3,No
+NF100558,62,37,14.5,14,Premium,tablet,5,No
+NF100559,21yr,43,14.4h,13,Standard,Mobile,4,No
+NF100560,33,40,78.5,21,Standard,tv,4,No
+NF100561,41,26,,25,Premium,Tablet,3,No
+NF100562,33,55,31.6,7,BASIC,Laptop,5,N
+NF100563,19,23,116.8,15,Basic,TV,1,No
+NF100564,66,44,68.8,7,standard plan,TV,3,No
+NF100565,45,39,93.5,6,Basic,TV,1,No
+NF100566,49,15,80.0,2,Basic,tablet, 3 ,No
+NF100567,44,,,9,Basic ,Tablet,1,Yes
+NF100568,37,49, 91.2 ,22,Basic,Tablet,3, NO
+NF100569,41,4,24.1,,Premium,TV,4,No
+NF100570,29,29,22.1,17,Basic,Smart TV,2,Yes
+NF100571,67,22,14.4 hours,5,Standard,Mobile,4,No
+NF100572,52,25,10.7,12,Standard,mobile,1,Yes
+NF100573,50,13,43.0,1,Standard,Tablet,5,no
+NF100574,50,18,,10,,Tab,4,No
+NF100575,68,33,18.2,11,premium,Laptop,2,No
+NF100576,60,16,34.9h,16,Basic,Tablet,1/5,No
+NF100577,54,45,3.9,14,Premium ,Mobile,4,Yes
+NF100578,29,42,38.1,8,Premium, MOBILE,3,Active
+NF100579,20,44,40.4,24,Standard,Phone,5,No
+NF100580,18,2,112.6,17,Standard,TV,1,No
+NF100581,50,55,45.5,25,STANDARD,TV,4,No
+NF100582,57,35,43.0,18,Standard,tablet,1,0
+NF100583,27,42,91.1,12,Premium,Laptop ,3,No
+NF100584,60,34, 34.5 ,25,premium plan,Laptop,2,1
+NF100585,61,,44.9,17,,Laptop,4,No
+NF100586,46,59,69.2,N/A,standard plan,TV,1,No
+NF100587,30,55,24.4,26,Premium,Mobile,1,No
+NF100588,29,13,69.4,14,Premium,Phone,1,No
+NF100589,48,13,15.2,16,Standard,,2,No
+NF100590,63,18,58.8,14,Standard,Laptop,1,No
+NF100591,19,32,59.0,9,Basic,Laptop,5,Active
+NF100592,68,32,31.1,4,Premium,Tablet,5,
+NF100593,67,35,35.8,25,Basic ,Tablet,,No
+NF100594,52,59,96.5,23,Standard,,5,No
+NF100595,40,39,37.4,11,Basic ,TV,4,No
+NF100596,34 years,46,54.7, 6 ,Basic,Laptop,5,No
+NF100597,150,52,41.3,15,Standard,Tab,1,No
+NF100598,25,29,25.9 hours,5,Premium,Laptop,,No
+NF100599,46,49,27.1,11,Basic,TV,4, NO
+NF100600,43,29,50.4,25,standard,Mobile,2,No
+NF100601,27,53,85.6,18,Basic,TV,1,no
+NF100602,43,44,15.9,30,Basic,TV,2,No
+NF100603,51,57,92.4,13,Standard,Tablet,,No
+NF100604,68,,57.8,11,Standard,TV,2,No
+NF100605,58,56,34.5,14,BASIC,TV,1,N
+NF100606,24,44,48.6 hrs,28,Basic,Tab,1,Yes
+NF100607,21,,,18,BASIC,Tab,3,No
+NF100608,70,57,18.8,27,Basic,Mobile,1,No
+NF100609,67,10,36.3,,Premium,,3,No
+NF100610,62,30,40.1,25,premium plan,tv,3/5,No
+NF100611,unknown,,11.9,28,basic,Tablet,1,Yes
+NF100612,46,39,,19,Standard ,Mobile,5, NO
+NF100613,53,20,26.7,24,Premium,Laptop,3,Yes
+NF100614,42,5,27.7,27,Basic ,Tablet,1,No
+NF100615,38,1,38.0,15,Premium,,5,No
+NF100616,53,30,52.0,9,premium plan,Laptop,3/5,No
+NF100617,27,49, 49.8 ,8,Basic ,TV,5,0
+NF100618,54,3,41.2,20,Basic,TV,4,No
+NF100619,26,45,48.7,28,Premium , TABLET,4,No
+NF100620,41,14,24.9, 1 ,Standard,Laptop ,5/5,No
+NF100621,52,56,44.0,4,,Tablet,,No
+NF100622,66,30,55.0,14,Basic,Tablet,1,No
+NF100623,52,50,27.4,25,Standard,Laptop,2,No
+NF100624,65,4,40.7,2,Standard,Tab,1,No
+NF100625,53,18,55.7,16, STANDARD,Laptop,2,No
+NF100626,35,37,38.0,3,Premium,Laptop,2,No
+NF100627,,25,16.6,26,Basic,Laptop,3,No
+NF100628,56,48,84.7,8,Standard ,Laptop,5,No
+NF100629,49,1,76.2,6,Standard,Mobile,1,No
+NF100630,41,53,39.8,16,Standard ,Laptop ,5,No
+NF100631,40,46, 91.8 ,24,Basic,Smart TV,4,0
+NF100632,49,15,-10,16,PREMIUM,TV,3,No
+NF100633,54,9,35.1,,Premium,TV,3,No
+NF100634,29,15,25.3,30,Standard,Laptop,4/5,Yes
+NF100635,66,49,18.9,,,TV,1,Active
+NF100636,30,57,36.3,13,Basic ,Mobile,4,0
+NF100637,,24,22.2,5,Standard,Tablet,1,Yes
+NF100638,42,4,23.5,,Standard,Laptop,2,No
+NF100639,52,12,48.9,20,Standard,TV,3,No
+NF100640,58,59,15.3,22,Premium,Mobile,1,no
+NF100641,47,58,12.2,18,,Tablet,5,No
+NF100642,34,37,42.5,15,Standard,Mobile ,5,No
+NF100643,66yr,37,56.2,18,,Tv,3,No
+NF100644,37,43,,2,basic plan,Mobile,4,No
+NF100645,65,60,12.4,10,Standard, TABLET,4,No
+NF100646,42,6,25.0,23,Basic,TV,1,No
+NF100647,39,39,27.1,13,Standard,Tablet,4,No
+NF100648,30,56,13.1,18,Premium,mobile,3,No
+NF100649,unknown,46, 40.8 ,15,standard,Laptop,1,No
+NF100650,66,24,,12,PREMIUM,Laptop,2,No
+NF100651,53,11,35.5,15,STANDARD, LAPTOP,4,Yes
+NF100652,29,13,12.9,13,Basic,laptop,4,No
+NF100653,58,34,110.9,18,Premium,Tab, 1 ,No
+NF100654,36,25,23.3,15,Basic ,Laptop,5,Active
+NF100655,29,7,68.3,25,Basic,tablet,4,No
+NF100656,26,52,85.5,23,Standard,,3,no
+NF100657,24,4,30.9,11,BASIC,Laptop,4,No
+NF100658,45,59,50.9,19,Basic,Tablet,2,No
+NF100659,31,8,15.5,3,Standard,Laptop ,4,No
+NF100660,48,20,,,Standard,Laptop,5,No
+NF100661,69,29,51.9,21,Standard,Laptop ,4,No
+NF100662,36,54,40.3,26,Premium,Tablet,1,No
+NF100663,64,53,60.0,14,Standard,mobile,4,No
+NF100664,33,51,29.4,14,Premium,laptop,5,Yes
+NF100665,70 years,45,68.3,22,Basic,,1,N
+NF100666,22,46,20.9,13,Standard,TV,3,Yes
+NF100667,52,10,51.3,12,Premium,Mobile,1,no
+NF100668,29,,27.5,24,Standard,,2, NO
+NF100669,42,34,11.5,9,Standard,TV,1,Yes
+NF100670,69,57,59.4,1,,Laptop,3,No
+NF100671,38,26,24.6, 19 ,Basic ,TV,4,No
+NF100672,53,41,19.8,11,Standard,TV,1,No
+NF100673,70,-2,500,23,Standard,Laptop,1,No
+NF100674,40,58,63.7,22,Premium,Mobile,1,No
+NF100675,33,3,19.2,23,Basic,,1,Y
+NF100676,56,56,17.2,24,Premium,TV,3,No
+NF100677,62,6,29.8,22,Premium,Laptop,5,No
+NF100678,70,5,18.1,19,Basic,Tablet,5,No
+NF100679,59,5,87.5,18,Basic,TV,1,No
+NF100680,56,54,10.9,12,Premium ,tablet,3,No
+NF100681,31,47,102.4,23,Premium,TV,3,No
+NF100682,48, 23 ,50.1,28,Standard,TV,1,No
+NF100683,22,49,55.6,28,Basic, LAPTOP,2,No
+NF100684,52,9,,28,Standard,Laptop,1,No
+NF100685,40,35,12.3,27,Standard,Tablet,2,No
+NF100686,46,20,62.7,1,Basic,Tablet, 1 ,Yes
+NF100687,60,,40.8,19,STANDARD,Phone,2,No
+NF100688,28,49,20.9,28,Basic,Laptop,2,No
+NF100689,35,,72.8,27,Basic ,TV,1,No
+NF100690,64,42,69.7,20,Standard,tv,2,Active
+NF100691,29,35,73.0,29,standard,Mobile,4,No
+NF100692,,50,67.2,30,Basic,Laptop,,No
+NF100693,,18,28.3,17,Standard,TV,3,No
+NF100694,61,17,54.7,5,Basic,Phone,2,Yes
+NF100695,34,24,71.9,26,Basic,Mobile,2,No
+NF100696,55,3,67.6,3,Basic,TV,3,No
+NF100697,24,32, 5.4 ,2,Premium,Tv,2,No
+NF100698,63,35m,38.2,3,Standard,Tablet,3,Yes
+NF100699,30,38,,8,Standard,Laptop,1,No
+NF100700,57,13,86.8,16,Standard, TABLET,4,No
+NF100701,59,56,38.5 hours,6,Premium,Mobile,4,No
+NF100702,26,47,52.2,13,BASIC,TV,5,Active
+NF100703,67,25,44.9,30,Standard,Tablet,2,no
+NF100704,44yr,9,81.8,23,Standard,Mobile ,5,
+NF100705,19,4 months,103.2,28,STANDARD,Laptop,1,No
+NF100706,22,14,41.0,N/A, BASIC, TV,4,Yes
+NF100707,,37,,22,Standard,Tablet,1,N
+NF100708,54,34,84.5,16,Basic,Laptop,1,No
+NF100709,55,11,18.4,28,Standard,,,No
+NF100710,36,41,20.0,16,Standard ,Phone,1,Active
+NF100711,25,56,26.1,3 times,Basic, LAPTOP,4,No
+NF100712,65,3,62.0,28,Premium,Tablet,5,No
+NF100713,62,59,41.7,13,Basic,Laptop,0, NO
+NF100714,18,28,26.3,14,Premium,Mobile ,2,No
+NF100715,39,29,,8,Standard,laptop,4,0
+NF100716,69,9,13.2,12,BASIC, TABLET,3,No
+NF100717,34,3,25.5,23,Basic,Mobile ,5,Yes
+NF100718,24,25,36.4,23,Premium,TV,3,No
+NF100719,42,34,102.9,22,Basic,Tablet,3,No
+NF100720,62 years,12,26.0,21,basic,,2,Active
+NF100721,21,42,54.8,26,basic plan,Mobile,1,No
+NF100722,53,9,36.4,8,STANDARD, MOBILE,3,1
+NF100723,23,15,17.4,21,Standard,TV,4,Yes
+NF100724, 48 ,40,54.2,25,basic,Tablet,1,N
+NF100725,36,25,,9,Basic,Mobile,4,No
+NF100726,61,5,28.4,1,Basic,Smart TV,4,No
+NF100727,56,11,15.5,6,Basic,Tv,1,Yes
+NF100728,44,59,41.9,23,Standard,Mobile,1,no
+NF100729,27,34,89.7,19,Standard,Tablet,4,No
+NF100730,43,24,26.8,23,BASIC,Laptop,2,Yes
+NF100731,36,60,18.5,11,Standard,laptop,5,Yes
+NF100732,56,15m,11.5,11,standard plan,TV,,No
+NF100733,20,38,10.6,23, PREMIUM,Laptop,2,Yes
+NF100734,62,,36.9,30,,Laptop,1,No
+NF100735,30,59,42.2,13,PREMIUM,Mobile,4,No
+NF100736,67,5,50.5,11,basic,Tv,5,0
+NF100737,45,48,38.0,18,Basic,tablet,4,Active
+NF100738,37,26,44.7h,23,,TV,2, NO
+NF100739,45,18,89.1,,Basic,Mobile,4,No
+NF100740,25,6,79.0,1,standard,Laptop,,No
+NF100741,58,37,,21,Premium,Tablet,1,Yes
+NF100742, 56 ,60,70.3,,Premium,TV,2,No
+NF100743,18, 48 ,58.3,7,Premium,Laptop,2,No
+NF100744,20,,12.9,23,Standard,Smart TV,5,no
+NF100745,30,28,35.0,27,Standard,Tablet,4,No
+NF100746,45,5,47.2,13,BASIC,TV,5,No
+NF100747,66,13,22.3,12,,Tv,3,No
+NF100748,42,17,97.6,18,Standard,TV,2,No
+NF100749,50,50,32.5h,,Basic,Laptop,3,No
+NF100750,55,40,12.0,19,Standard ,Tablet,5,No
+NF100751,70,45,31.3,,Basic,Tablet,4,Active
+NF100752,23,32,51.2,8,Standard,Laptop,5,No
+NF100753,61,29,22.3,19,Premium ,Laptop,4,No
+NF100754,62,51,36.6,10,Basic,Laptop,4,no
+NF100594,49,58,12.2,, PREMIUM,Mobile,1, NO
+NF100756,62,3,30.2,18,Basic,TV,2,Yes
+NF100757,64,56,40.4,16,standard plan,TV,5,No
+NF100758,38,40,37.9,20,Standard, TABLET,4,No
+NF100759,33,34,63.2,27,Standard, TV,5,Active
+NF100760,38,40,20.6,6,Premium,Mobile,5,No
+NF100761,28,27,49.5,27,basic,,4,No
+NF100762,54,13,55.6,9,Standard,Tablet,3, NO
+NF100763,53,45,25.2,21,standard,Tablet,2,No
+NF100764,,33,22.2,200,Premium,TV,2,No
+NF100765,36yr,6,98.0,25,Basic,Tablet,1,No
+NF100766,37,24,33.1,21,Premium,Laptop,1,Active
+NF100767,35,19,50.8,26,Standard, TABLET,1,No
+NF100768,64,N/A,52.1,8,Basic,,2,No
+NF100769,0,40,14.6,16,Standard,Mobile ,3/5,No
+NF100770,66,28,45.3,13,basic,Phone,2,Yes
+NF100771,31,33,43.9,13,Standard ,Laptop,2,No
+NF100772,32,59 months,98.3,17,Premium, TV,2,No
+NF100773,48,59,43.9,23,Standard, TABLET,2,No
+NF100774,18,48,61.9,20,Standard, TV,3,Active
+NF100775,70,41,63.3,5, STANDARD,Tablet,1, NO
+NF100776,20,,33.8,22,basic,Mobile ,5,No
+NF100777,33,43,118.7,21,Basic,,1,No
+NF100778,40,45,24.3,28,Standard,Mobile,1,Yes
+NF100779,28,25,12.0,17,basic,Tab,5,Yes
+NF100780,29,53,29.4,28,,Mobile,2,Yes
+NF100781,27,42,,9,Standard,Mobile,3,
+NF100782,49,36,25.4,2,Basic,Mobile ,3,No
+NF100783,33,27, 40.1 ,25, BASIC,Mobile ,1,0
+NF100784,25,38,46.5,26,Standard,TV,,No
+NF100785,55,60,31.5,18,Basic,Mobile,4,No
+NF100786,29,7,,9,Premium,Mobile ,2,Yes
+NF100787,41,5,29.1,6,premium plan,TV,1,No
+NF100788,45,43,54.8,,Standard,TV,3,Yes
+NF100789,70,45,19.6,25,Basic ,tablet,5,No
+NF100790,25,58,25.3,29,Premium,Laptop,5,No
+NF100791,45,57,,6,Premium,Mobile,1,No
+NF100792,53,51,42.5,6,Premium,Mobile,4,No
+NF100793,43,31,11.6,13,Basic, MOBILE,3,Yes
+NF100794,25,23,71.6,11, STANDARD,,1,N
+NF100795,67,42,29.6,14,Premium,Mobile,4,No
+NF100796,45,10,18.0,2,Standard,laptop,5,Yes
+NF100797,45,32,15.0,8,Standard,TV,,yes
+NF100798,54,43,72.2,3,Standard,Tablet,3,No
+NF100799, 58 ,53,7.1,23,Standard,TV,3,no
+NF100800,53,30,51.1,,Basic,Mobile,4,No
+NF100801,44,39,64.5,3,Standard, MOBILE,1,No
+NF100802,34,31,31.2,1,Basic,Mobile,5,N
+NF100803,26,18,93.0,24,Standard,,4,No
+NF100804,50,36,20.4, 19 ,basic,Laptop,2,Y
+NF100890,70,2,54.6,18,standard plan,tablet,2,No
+NF100806,37,14,42.8,17, BASIC,tv,2,No
+NF100807,30,13,99.8,20,Standard,Mobile,4,No
+NF100808,45,29,33.5,29,Premium,Mobile,5,No
+NF100809,65,12,51.3,24,Basic,Mobile,3, NO
+NF100810,46,39,42.6,13,basic,Mobile,1,Yes
+NF100811,30, 2 ,13.0,3,Basic,Laptop,3,No
+NF100812,63,32,36.5,-3,Premium,TV,5,
+NF100813,52,13,27.2,1,Standard,TV,3,Yes
+NF100814,23,0,42.8,4,Standard,Tablet,4,No
+NF100815,35,27,51.9,25,Basic,laptop,2,No
+NF100816,68,49,82.7,13,Standard,Mobile,5,No
+NF100817,22,41,5.8,17,Premium,TV,5,1
+NF100818,64,17,40.0,28,premium plan,Smart TV,3,N
+NF100819,42,40,15.9,30,STANDARD, LAPTOP,unknown,No
+NF100820,19,31,55.0,11,Basic,Tablet,3,No
+NF100821,27,34,122.7,2,Basic,Tablet,3,No
+NF100822,47,60,32.3,25,Basic,Mobile,5,Yes
+NF100823,67,24,23.6,16,Basic,Tab,3,No
+NF100824,62,,29.5,,Basic,TV,2,No
+NF100825,22,35,,29,Basic,Tablet,3,N
+NF100826,50 years,48,3.7,19,Standard,Mobile,2,Yes
+NF100827,18,6,46.7,23,Premium ,TV,5,No
+NF100828,35,19,unknown,19,Standard,tablet,4,No
+NF100829,150,30,24.0,25,Premium,Tablet,2,No
+NF100830,64,7,18.7,16,standard plan,Laptop,4,No
+NF100831,66 years,10,64.2,22,Basic,Mobile,4/5,No
+NF100832,28,41,78.9,19,,Tablet,2,No
+NF100833,,32,43.3,9, BASIC,laptop,5,Yes
+NF100834,43,34,7.6,1,Standard,TV,1,Yes
+NF100835,42,28,35.6,10,Basic,Laptop,4,0
+NF100836,39,60,48.7,19,Premium,Laptop,4,No
+NF100885,44,15,33.1,1,Basic,Tab,5,No
+NF100838,66,30,35.6,2,BASIC,Tablet,5,No
+NF100839,30,37,25.2,16,Premium ,Tablet,3,No
+NF100840,50,29,33.6,12,BASIC,Laptop,5,Y
+NF100841,51,22, 67.8 ,8,Standard,TV,4,No
+NF100842,58,4,,23,Standard, MOBILE,2,No
+NF100843,52,20,27.8 hours,18,PREMIUM,Laptop,1, YES
+NF100817,18,32,33.2,2,Premium,Tablet,3,Yes
+NF100845,38,36,82.9,25,Premium,Mobile,2,No
+NF100846,65,50,19.0,29,Basic,TV,0,No
+NF100847,23,4,25.4,13,Premium,Mobile,1,No
+NF100848,45,27,35.6,6,STANDARD,tablet,1,N
+NF100849,34,17,26.7,21,standard,Laptop,2,No
+NF100850,22,12,80.6,26,Basic ,Laptop , 3 ,Active
+NF100851,48,22,68.7,6,standard plan,Tablet,3,0
+NF100852,22,17,35.1,9,Premium, LAPTOP,1,No
+NF100853,55,10,117.1,16,Premium,Tab,2,no
+NF100854,20,54,46.9,11,standard plan,Laptop,,No
+NF100855,70,1,89.7,7,Basic,Laptop,, NO
+NF100856,40,22,84.9,10,Standard,Laptop,3,No
+NF100857,54,26,51.0,10,PREMIUM,TV,4,Yes
+NF100858,70,56,18.0,30, STANDARD,TV,1,No
+NF100859,54,59,41.4 hours,200,Standard,Tablet,5,No
+NF100860,27,18,24.8,20,Basic,TV,6,Y
+NF100861,27,50,54.4,18,Standard,Tablet,2, NO
+NF100862,36,14,49.4,28,Standard ,,,No
+NF100985,34,47,45.6,24,Premium,Mobile,2, NO
+NF100864,38,29,62.4,20,Standard,TV,2,No
+NF100865,31,12,48.1,29,Basic ,Mobile,1,N
+NF100170,26 years,36,37.8,9,Standard ,Mobile,1,No
+NF100867,63,,17.0,15,,Laptop,3,No
+NF100868,18,35,26.5,4,,Laptop,5, NO
+NF100869,68,52,20.0,999,Standard,Tablet,3,No
+NF100870,62,12,,,Standard,Mobile,4,no
+NF100871,30,7,36.3,13,Standard,Tab,2, YES
+NF100872,21,29,45.7,9,Standard,Tab,2,No
+NF100873,18,11,29.4,26,,Mobile,1,Yes
+NF100874,66 years,33,73.8,4,Standard ,TV, 5 ,N
+NF100875,57,6,56.5, 17 ,Basic,mobile, 1 ,No
+NF100876,49,47,42.5,16,BASIC,Laptop,4,No
+NF100877,51,15, 38.7 ,15,basic plan,Mobile,3,yes
+NF100878,45,32,23.1,3,Standard,TV,3,Yes
+NF100879, 48 ,51,26.8,25,Basic,Tablet,5,No
+NF100880,25,11,13.1,20,standard,Tablet,1, NO
+NF100881,56,58,57.1,5,Premium,Laptop,,No
+NF100882,43,23,60.1,23,Premium,Laptop ,4,No
+NF100883,51,26,61.6,5,Standard, LAPTOP,3,Yes
+NF100884,20,34,21.0,20,Standard,Tablet,,1
+NF100885,67,46,86.4 hrs,15,Basic,Laptop,5,
+NF100886,29,34,32.4,18,Standard,Mobile,3,Yes
+NF100887,18,29m,53.3,15,PREMIUM,Tablet,,No
+NF100888,61,4,16.7,2, BASIC,TV,5,No
+NF100889,22,17,75.8,29,,Tablet,2,No
+NF100890,47,35,58.8,13,premium,Mobile,4,No
+NF100891,47,13,33.3,4,Premium,Mobile,5,No
+NF100892,34,41,29.6,10,Basic,Laptop, 1 ,No
+NF100893,65,39,58.0,,Standard,Tablet,2,No
+NF100894,64,15,75.7,,Basic,Tablet,4,Active
+NF100895,40,55,unknown,29,Basic,Tablet,1,No
+NF100896,32,29,37.7,9,Premium,TV,,No
+NF100897,54,29,28.9,8,Premium,Laptop,3,No
+NF100898,38,11,77.7,3,premium,Mobile,1,No
+NF100899,31,52,27.1,16,Basic,Mobile,5,No
+NF100900,19,32,17.2 hrs,14,Premium,Laptop,,No
+NF100901,28,2,59.5,,Standard,Mobile,2,No
+NF100902,68,47,82.4,30,basic,Mobile,1,No
+NF100903,56,14,57.5,21,Standard, LAPTOP,3,Yes
+NF100904,55,20,72.4,11,Basic,Mobile,4,No
+NF100905,51,22,112.7h,3,Premium,Tablet,,no
+NF100906,55,11,100.2,5,Standard,TV,1,No
+NF100907,67,27,100.9,29,Basic,Laptop,3,no
+NF100908,51,3,29.1,10,basic plan,TV,2,No
+NF100909,35,17,59.8,13,BASIC,Mobile,1,No
+NF100910,47,150,44.0,4,Basic,Mobile,2, YES
+NF100911,32,56,,24,standard,Tablet,4,No
+NF100912,,28,74.1,,Premium ,,2,No
+NF100913,68,29,55.0,12,Basic,Mobile,3,No
+NF100914,51,21,38.4,5,basic,Laptop,5,No
+NF100915,69,47,26.0,10,Standard,Laptop,3,No
+NF100916,55,16,55.3,28,Premium,Laptop,2,Active
+NF100917,50,37,36.2,24,Basic,Laptop, 1 ,No
+NF100918,41,59,73.9,-3,Basic,Laptop,4,No
+NF100919,32,20m,72.6,20,STANDARD,TV,5,No
+NF100920,47,6,50.7,7,Basic,Tablet,1,
+NF100921,,19,19.8,2,Basic ,Laptop,1,
+NF100922,68,57,31.0,22,Standard ,tv,3,No
+NF100923,34,5,103.2,24,STANDARD,Phone, 2 , NO
+NF100924,22,3,54.2,28,Standard,Laptop,3,No
+NF100925,46,59,,23 times,Standard,Mobile,2,No
+NF100926,21,1,20.5,7,Standard,Laptop,3,No
+NF100927,27,58,171.6 hours,8,BASIC,Tv,1,No
+NF100928,34,60,11.6,7,Standard,,4,No
+NF100929,27,38,54.7,21,BASIC,TV,2,N
+NF100930,34,15,10.7,23,Basic,Tablet,5,No
+NF100931,37 years,34,73.9,29,Standard,Mobile,5,No
+NF100932,41,,23.3,14,Premium,Tablet, 1 ,No
+NF100933,22,49,36.5,26,Premium,Laptop,3,No
+NF100934,51,25,48.7,,Standard,Mobile,3,No
+NF100935,23,24,62.9,5,basic plan,TV,1,Y
+NF100936,70,12,,23,Basic,Mobile,5,No
+NF100937,19,18,45.4,25,Premium,TV,5,No
+NF100938,30yr,15,47.5,18,,Tablet,3,Active
+NF100939,60,44,41.9,20, STANDARD,Tablet,2,No
+NF100940,60,,35.7,12,Premium,TV, 4 ,no
+NF100941,65,27, 29.3 ,23,Standard,TV,,No
+NF100942,28,8,49.0,17,Premium,Laptop,5,No
+NF100943,68,60,,13,basic,Tablet,2, NO
+NF100944,64,46 months,25.8,2,Standard,Tablet,4,No
+NF100945,40,25,35.8,25,,Laptop,2,No
+NF100946,,17,10.8,13,Basic,Tablet,2,No
+NF101028,48,29,34.6,26,Standard ,TV,2,No
+NF100948,28,53,11.1,7,Basic,Mobile,2,yes
+NF100949,33,8,29.7,28,Premium,mobile,1,1
+NF100950,25,15,19.9,10,Basic,Tablet,5,No
+NF100951,21,27,24.1,23,Standard,Laptop,4,No
+NF100952,57,46,83.8,6,Basic,TV,5,No
+NF100953,21,50,18.1,3,Standard,Mobile,1,No
+NF100954,42,52,31.4,26,Basic,TV,1,Active
+NF100955,20,7,48.7,3,BASIC,Tablet,1,No
+NF100956,49,3,9.0,18,Standard,Tablet,1,Active
+NF100957,20,29,36.4,11,Premium,,10,No
+NF100958,44,44,46.1,22,Basic,Tablet,5,No
+NF100959,46,53,19.2 hours,20,Basic,Laptop,3,No
+NF100960,49,24,14.2,5,Premium,Tablet,4,
+NF100961,67,60,62.4,19,standard,Tablet,1,No
+NF100962,68 years,58,9.3,22,Premium,Tab,5,No
+NF100963,36,3,31.1,27, BASIC,tv,1,No
+NF100964,38,20,17.4,28,Standard,TV,1,N
+NF100965,22,46,5.8,19,,Mobile,1,No
+NF100966,35,15,74.5,,,Mobile,1,No
+NF100967,45,25,59.1,15,Standard ,Mobile,1,N
+NF100968,59,30,78.1,30,Standard,Tablet,4,Yes
+NF100969,39,14,43.4,16,Premium,TV,5,No
+NF100970,38,7,17.4,24,Basic,Laptop,1,Yes
+NF100971,23,17,29.0,9,Standard,Tablet,,No
+NF100972,18,44,13.7,4,Standard,Tab,1,Yes
+NF100973,22yr,,33.7,15,Premium,Tablet,1,Active
+NF100974,58,36,71.8,25, BASIC,Laptop,2,No
+NF100975,29,9,29.1,12,Basic,Mobile,2,No
+NF100976,43,,49.1,23,standard,Laptop,3,No
+NF100977,63,,46.8,3,Standard,Mobile,1,No
+NF100978,51,57,16.5,23,Basic,Laptop,3,No
+NF100979,66yr,60,16.8,14,Premium,,unknown,No
+NF100980,31,22,58.5,17,Basic,Tab,3,Churned
+NF100981,43,54,21.9,19,Premium,Tablet,5,No
+NF100982,62,53,50.7,6,Basic,Tablet, 2 ,Yes
+NF100983,44,53,21.6 hrs,4,Standard ,Mobile,2,No
+NF100984,26,2,24.9,7,Premium,Laptop,1,Yes
+NF100985,43,24,50.1,30,,TV,1,No
+NF100986,64,8,35.5,,Premium,laptop,4,Active
+NF100987,39yr, 11 ,32.0,17,Standard,Tablet,4,No
+NF100988,64,13,20.2,25,Premium,TV,,No
+NF100989,47,17,42.9,16,Standard, TV,1,No
+NF100990,60,8,22.7,15,Basic,Tab,1,Yes
+NF100991,65,21,54.1,22,Basic,Laptop,4,No
+NF100992,34yr,18,20.5,,Basic,tablet,4,0
+NF100993,43,0,31.8,19,Basic,Laptop,4,No
+NF100994,53,18,54.7,8,BASIC,TV,2,No
+NF100995,18,46,47.7,18,Basic,,3/5,No
+NF100996,25,47,49.9,28,Standard,Tablet,3,No
+NF100997,66,31,36.6,16,Premium,TV,1,No
+NF100998,52,38 months,17.4,20,Basic,Mobile,2,No
+NF100999,69,32, 63.9 ,19,Basic,TV,4,No
+NF101000,-5,11,39.3,10,standard,Mobile,1,no
+NF101001,64,45,,17,Basic,TV,2,No
+NF101002,39,25, 24.6 ,13,Basic,Tablet,5,
+NF101003,31,33,93.0,13,Basic,Tablet,2,No
+NF101004,43,60,35.2,7,Premium,Mobile,1,Active
+NF101005,45,38,14.6,27,Premium, TABLET,3,No
+NF101006,40,41,76.1,10,Standard ,TV,4,No
+NF101007,31,8,31.7,2,Standard,Smart TV,5,Churned
+NF101008,41,11,,4,standard plan,Tablet,2,No
+NF101009,19,22,18.5,25,Standard, TV,1,No
+NF101010,62,51,40.5,6,Standard,Laptop,1,Yes
+NF101011,43,24,65.9,24,Standard,laptop,4,
+NF101012,31,41,41.4,18,Basic,tv,1,Yes
+NF101013,68,17,28.7,23,Basic,Tablet,1,Yes
+NF101014,24,12,12.7,6,standard plan,Mobile,4,N
+NF101015,20,57,33.1,29,Premium,tablet,5,No
+NF101016,64,46,46.4,,,Mobile,3,No
+NF101017,40,32,21.9,25,Premium,Tablet,3,No
+NF101018,63,15,78.0,23,Premium,,2,No
+NF101019,60,16,29.2,17,BASIC,laptop,,Yes
+NF101020,64,54,48.5,14,Standard,Tablet,2,0
+NF101021,62,22,30.0,24,Standard,mobile,3,No
+NF101022,35,28,61.1,11,Premium, LAPTOP,4,0
+NF101023,55,20,42.9,26,Premium,Mobile,1,No
+NF101024,52,0,90.6,,Standard, TV,3,No
+NF101025,68,10,43.5,30,Basic,Laptop,5,Yes
+NF101026,32,40,53.7,2,Premium,Mobile,3,No
+NF101027,42,32,45.0,28,Basic,Tablet,5/5,No
+NF101028,54,50,17.6,3,Premium,Smart TV,5,Yes
+NF101029,45,60,75.2,11,Premium,TV,5,No
+NF101030,27,33,48.7, 6 ,STANDARD,Smart TV,2,Yes
+NF101031,56,2,54.5,29,standard plan,Tablet,4,No
+NF101032,34,33,69.5,14,STANDARD,Tablet,3,No
+NF101033,56,33,,19,Standard,Laptop ,4,No
+NF101034,39,41,18.8,26,Basic,Tablet,1,N
+NF101035,43,13,16.1,16,Premium,Laptop,3, YES
+NF101036,61,30,23.1 hrs,21,Premium,TV,4, NO
+NF101037,42,33,16.5,22,Premium,Laptop,4,No
+NF101038,34,13,29.6,24,Basic ,Mobile,1,Yes
+NF101039,30,52,17.9,-3,Premium,TV,5,Yes
+NF101040,37,26,18.7,30,Standard,TV,3,0
+NF101041,42,22,47.8 hours,27,BASIC,Laptop,3,No
+NF101042,21,39,11.7,8,Basic,TV,1,No
+NF101043,27,2,40.2 hours,19,basic,Tablet,5,N
+NF101044,20,38, 63.8 ,20,Premium,Mobile,3,No
+NF101045,58,39,63.5,16,Standard, LAPTOP,3,No
+NF101046,-5,26,55.5 hours,22,standard plan,Laptop,,0
+NF101047,35,46,59.7,27,Basic,TV,5,no
+NF101048,,58,57.7,7,Standard,Tablet,1,No
+NF101049,,50,18.4,9,Basic,TV,3,No
+NF101050, 64 ,15,33.7,13,standard,TV,4,No
+NF101051,39,34,56.4 hrs,1,STANDARD,Laptop,5,No
+NF101052,51,42,28.9,29,Basic,TV,2,No
+NF101053,64,55,29.1,8,Premium,Mobile,1,No
+NF101054,25,44,45.9,24,Basic,Smart TV,4,Yes
+NF101055,57,49,98.3,22,standard,TV,3, NO
+NF101056,66yr,,62.3,4,Standard,Laptop,2,No
+NF101057,61,11,11.9,999,Standard,TV,1,Yes
+NF101058,36,3,,27,Basic,Tablet,5,No
+NF101059,59,59,20.0,3,Basic , LAPTOP,2,no
+NF101060,58,6,64.7,22,Premium,TV,2,No
+NF101061,54,9,79.2h,13,Basic,Mobile,4,No
+NF101062,23,6,107.4,8,Premium,Mobile,1,No
+NF101063,69,9,63.3,7,Premium,Laptop,4,No
+NF101064,43,39,52.6,27,Basic,laptop,4,No
+NF101065,51,31,53.7,1,Basic,TV,3,
+NF101066,62,32,9999,27,Standard,Tablet, 5 ,No
+NF101067,23,41,37.7,16,Premium,TV,2,No
+NF101068,150,50,43.8,6,Premium,Mobile,1,No
+NF101069,50,12,unknown,7,Standard,Tablet,5,No
+NF101070,70,8,51.3,12,Premium, TABLET,5,0
+NF101071,39,8,115.7,23,Basic,Tablet,1,No
+NF101072,38,50,10.7,9,Premium,TV,5,No
+NF101073,23,28 months,56.0,,Premium,Phone,3,no
+NF101074,23,20,38.4 hrs,11,basic plan,Laptop,5,No
+NF101075,65,47,52.1,10,Basic,TV,3,No
+NF101076,21,59,43.3,21,Basic , LAPTOP,2,No
+NF101077,47,7,33.1,1,basic,,2/5,Yes
+NF101078,28,11,14.4,18,,Tablet,4,No
+NF101079,47,20,58.2,4,Standard,TV,3,Active
+NF101080,48,16,,5,BASIC,Mobile,2,No
+NF101081,41,4,51.6 hrs,9,BASIC,tablet,,No
+NF101082,26,6,75.4,27,Premium,Laptop,1,No
+NF101083,20,58,28.6,17, STANDARD,Laptop,1,No
+NF101084,68,22,38.4,3,Standard,TV,3,No
+NF101085,48,26,22.6,16,Basic,Laptop,4,No
+NF101086,57,3,27.9,5,Premium,mobile,5,0
+NF101087, 54 ,41,15.8,16,Premium,tablet,,0
+NF101088,53,150,23.6,3,Basic,laptop,1,No
+NF101089,41,42,48.8,20,Basic,,3,No
+NF101090,48,14,109.6,15,Basic,tablet,5,No
+NF101091,23,11,18.0,30,Basic,tv,2,No
+NF101092,19,18,32.8,3,STANDARD,Laptop,5,No
+NF101093,37,54 months,98.8,20,premium,tv,2,No
+NF101094,45,12,53.5,14 times,Standard,,2,No
+NF101095,28,23,46.9,16,Premium,Laptop,2,No
+NF101096,21,12,21.6,29,Standard,Mobile,3,0
+NF101097,32,13,34.9,29,Standard,TV,1,N
+NF101098,23,25,26.5,17,Standard,Laptop,3,No
+NF101099,66,45,50.7,28,BASIC,TV,1,Active
+NF101100,47,51,51.4,24,Standard ,Tablet,5,N
+NF101101,55,58,29.7 hrs,20,Standard,mobile,4,
+NF101102,68,19,33.3,23,Basic,Mobile,5,No
+NF101103,19,55,75.6 hours,18,Standard,Tablet,3,0
+NF101104,32,46,80.5,18 times,Standard,Tablet,3,No
+NF101105,28,36,31.5,22,Premium,tv,1/5,No
+NF101106,25,45,32.0,14,Standard,Tab,3,Yes
+NF101107,43,8,17.2,18 times,Premium,Phone,2,No
+NF101108,68,29,33.3,15,Standard,Tablet,3,
+NF101109,62,55,40.3,15,Premium,Laptop, 1 ,No
+NF101110,0,53,12.5,6 times,Standard,Laptop,1,No
+NF101111,22,55,49.3,27,Premium,tv,2,No
+NF101112,23,32,34.1,15,standard plan,Mobile,1,Yes
+NF100101,43,51,83.8,18,STANDARD,Laptop,4,0
+NF101114,21,44,,4,Standard,,5,No
+NF101115,36,18,111.2,23, STANDARD,Laptop,3,N
+NF101116,37,6,49.2,8,Basic,Laptop ,4,No
+NF101117,50,18,33.1,15,Basic,TV,unknown,No
+NF101118,37,19,47.1,3,basic plan,Tablet,4,
+NF101119,66,22,,30,Premium,Tablet,3,No
+NF101120, 29 ,37,75.8,15, BASIC,Tablet,2,No
+NF101121,64,32,58.3,13,Basic,TV,99,No
+NF101122,18,56,29.5,,Standard,Tablet,1,no
+NF101123,43,41,58.9,2,Basic,Tablet,,Yes
+NF101124,31,59,10.5,24,Standard,Laptop,4,Y
+NF101125,55,3,89.5,8 times,Basic,Laptop, 5 ,No
+NF101126,,28,25.3,29,Premium,Tablet,4, NO
+NF101127,28,10,82.9,30,Premium,Mobile,1,No
+NF101128,53,51,29.5 hours,20,Premium,Mobile,5,No
+NF101129,30,35,41.8h,17,standard plan,tablet,3,No
+NF101130,60,,32.3,13,Premium,Phone,5,No
+NF101131,20,54,51.9,1,basic plan,TV,4/5,No
+NF101132,50,15,,2,Basic,Laptop,,No
+NF101133,23,33,6.3,30,Basic,TV,3, NO
+NF101134,67,7,79.5,15,Standard,Laptop,4,No
+NF101135,27,N/A,89.0,12,Standard,Mobile,3,Yes
+NF101136, 22 ,49,29.4,14,Standard,Mobile,5,No
+NF101137,40,30,22.7 hours,,Basic,Tablet,1,Yes
+NF101138,27,21,34.7,29,Standard,mobile, 4 ,No
+NF101139,61,31,18.2,2,Standard,mobile,2,Yes
+NF101140,19,58,49.0,18,Standard,Tablet,5,Yes
+NF101141,30,24,31.5,22,standard plan,Tablet,4,No
+NF101142,57,20,28.8,7,Basic,Laptop,2,No
+NF101143,19,37 months,27.1,29,Premium,Mobile,4,No
+NF101144,37,4,37.5,23,Standard,Laptop,5,No
+NF101145,18,28,31.8,29,Basic,Laptop,4,No
+NF101146,54,44,38.0,25,Basic ,TV, 3 ,No
+NF101147,26,20,25.6,6,Standard, MOBILE,5,Yes
+NF101148,34,60,70.0,14,Premium,Mobile,4,No
+NF101149,26,24,49.0,8, STANDARD, TV,1,yes
+NF101150,28,50,38.2,,Basic,Laptop,4,No
+NF100959,46,53,19.2 hours,20,Basic,Laptop,3,No
+NF100503,18,8,25.5,23,Basic, TABLET,5,No
+NF100402,40,17,25.7,7,Basic,TV,5,Yes
+NF101143,19,37 months,27.1,29,Premium,Mobile,4,No
+NF100679,59,5,87.5,18,Basic,TV,1,No
+NF100998,52,38 months,17.4,20,Basic,Mobile,2,No
+NF100684,52,9,,28,Standard,Laptop,1,No
+NF100617,27,49, 49.8 ,8,Basic ,TV,5,0
+NF100964,38,20,17.4,28,Standard,TV,1,N
+NF100360,55,4,47.1,17,Standard,TV,5,No
+NF100694,61,17,54.7,5,Basic,Phone,2,Yes
+NF100660,48,20,,,Standard,Laptop,5,No
+NF100085,48,6,61.2,16,Basic,Tablet,2,
+NF100331,42,52,38.9,20,Standard, TV,2,No
+NF101007,31,8,31.7,2,Standard,Smart TV,5,Churned
+NF100492,36,24,77.0,23,Standard,mobile,4,No
+NF101094,45,12,53.5,14 times,Standard,,2,No
+NF100578,29,42,38.1,8,Premium, MOBILE,3,Active
+NF100436,41,5,64.5,30,Basic, LAPTOP,, NO
+NF100088,25,,22.9,23,standard,Laptop,1,No
+NF100065,64,47,35.5,,Basic,Laptop,1,No
+NF100305,22,36,28.8,1,Basic,Tablet,4, NO
+NF100639,52,12,48.9,20,Standard,TV,3,No
+NF100356,39,54,70.9h,21,Basic,Mobile,3,Active
+NF100952,57,46,83.8,6,Basic,TV,5,No
+NF101176,54, 21 ,68.9,2,Standard,Laptop,2,No
+NF101177,31,15,53.0,4,Basic,Laptop,3,No
+NF101178,47,33,,21,Standard,Mobile,1,No
+NF101179,52,35,31.5,7,Basic,Tablet,3,No
+NF101180,38,26,35.2,2, STANDARD,TV,5,No
+NF100065,54,8,56.7,30,Standard,Mobile,1,No
+NF101182,22,36,74.0,6,PREMIUM,Laptop,4,No
+NF101183,36,48,33.5,17,Basic,TV,5,No
+NF101184,31,30,9.9,7,Basic,Laptop,5,No
+NF101185, 43 ,23,9.8,, STANDARD, LAPTOP,3,No
+NF101186,21,42,23.7,5,Premium,Mobile,5,No
+NF101187,42,44,67.3,5,,Laptop,2,No
+NF101188,62,,54.8,20,Standard,TV,1,No
+NF101189,59,14m,58.6,16,Standard,Laptop,2,no
+NF101190,42,2,24.8,,Basic,Tablet,3,No
+NF101191,35,55,29.9,9,premium,Laptop,unknown,N
+NF101192,57,37,66.2,5,Standard,Mobile ,,No
+NF101193,25,5,94.4,8,Basic,Smart TV,5,Active
+NF101194,56,38,66.9,9,Standard,Mobile,4,Active
+NF101195,57,45,67.0,5,BASIC,tablet,3,Active
+NF101196,31,41,24.0,10,Premium,Laptop,1,No
+NF101197,49,54,57.1 hrs,25,Basic,Mobile,4,No
+NF101198,68,60 months,15.6,2,Standard,Phone,5,0
+NF100277,55,47,72.5,9,Basic,,3,No
+NF101200,50,14,48.5,11,Standard,Mobile,1,No
